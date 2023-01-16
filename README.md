@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bonari Simanjuntak
 - 👀 I’m interested in Code
-- 🌱 I’m currently learning PHP
 - 📫 How to reach me bonarikun@gmail.com
 
 <!---
